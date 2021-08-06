@@ -1,0 +1,4 @@
+﻿                  Warning	Can not export to a database. No database connection configured.
+                  Warning	Simulation second 1729.6: After 60.0 seconds of waiting for lane change the vehicle 556 (on Parking Route 22 - 5) was removed from link 8 at position 65.9.	Network object type: Vehicle	Network object keys: 556
+                  Warning	Simulation second 2176.3: After 60.0 seconds of waiting for lane change the vehicle 655 (on Parking Route 21 - 5) was removed from link 8 at position 65.9.	Network object type: Vehicle	Network object keys: 655
+                  Warning	Simulation second 7625.7: After 60.0 seconds of waiting for lane change the vehicle 2762 (on Parking Route 16 - 1) was removed from link 9 at position 51.1.	Network object type: Vehicle	Network object keys: 2762

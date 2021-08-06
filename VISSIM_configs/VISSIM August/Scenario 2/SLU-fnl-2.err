@@ -1,0 +1,4 @@
+                  Warning	Simulation time 544.5: Vehicle 227 left link 8: blockface1 without stopping at parking lot 18.	Network object type: Vehicle	Network object keys: 227
+                  Warning	Simulation time 576.1: Vehicle 241 left link 8: blockface1 without stopping at parking lot 18.	Network object type: Vehicle	Network object keys: 241
+                  Warning	Simulation second 593.3: Vehicle 247 left link 8 without having stopped at parking lot 18.	Network object type: Vehicle	Network object keys: 247
+                  Warning	Simulation second 1014.9: Vehicle 442 left link 8 without having stopped at parking lot 18.	Network object type: Vehicle	Network object keys: 442
